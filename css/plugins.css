@@ -1,0 +1,18 @@
+/*--ICON---*/
+@import url(plugins/font-awesome.min.css);
+@import url(plugins/bicon.min.css);
+@import url(plugins/material-design-iconic-font.min.css);
+@import url(plugins/simple-line-icons.css);
+
+/*--MENU MOBILE--*/
+@import url(plugins/mainmenu.css);
+
+/*--ANIMATION FONT--*/
+@import url(plugins/animation.css);
+
+/*--SLIDER AND CAROUSEL*/
+@import url(plugins/slick.min.css);
+@import url(plugins/owl.carousel.min.css);
+
+/*--SLIDE SHOW SINGLE PRODUCT--*/
+@import url(plugins/fotorama.css);
